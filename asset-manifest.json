@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/wedding_cra_app/static/js/main.fae7a793.js",
+    "index.html": "/wedding_cra_app/index.html",
+    "main.fae7a793.js.map": "/wedding_cra_app/static/js/main.fae7a793.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fae7a793.js"
+  ]
+}
